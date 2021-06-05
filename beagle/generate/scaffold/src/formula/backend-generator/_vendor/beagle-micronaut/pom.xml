@@ -9,7 +9,7 @@
   <parent>
     <groupId>io.micronaut</groupId>
     <artifactId>micronaut-parent</artifactId>
-    <relativePath></relativePath>
+    <relativePath/>
     <version>2.0.0</version>
   </parent>
 
@@ -71,7 +71,7 @@
     <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
       <artifactId>kotlin-reflect</artifactId>
-      <version>${kotlinVersion}</version>
+      <version>1.5.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
